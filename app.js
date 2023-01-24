@@ -24,7 +24,6 @@ const vm = new Vue({
       fetch(`./api/produtos/${id}/dados.json`)
         .then((res) => res.json())
         .then((res) => {
-          console.log(res);
           this.produto = res;
         });
     },

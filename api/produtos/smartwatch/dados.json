@@ -5,9 +5,9 @@
   "descricao": "Todas estas questões, devidamente ponderadas, levantam dúvidas sobre se a necessidade de renovação processual causa impacto indireto na reavaliação do orçamento setorial.",
   "estoque": 5,
   "img": "./api/produtos/smartwatch/smartwatch-foto.jpg",
-  "reviews": [
+  "avaliacoes": [
     {
-      "nome": "Rogério",
+      "nome": "Rogério Smartwatch",
       "estrelas": 5,
       "descricao": "Gostei muito do produto, atendeu todas as minhas necessidades."
     },
